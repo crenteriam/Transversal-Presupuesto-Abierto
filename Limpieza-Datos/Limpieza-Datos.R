@@ -1,5 +1,24 @@
+# 19TRU PolSci Paper (No name yet)
+# Cesar Renteria
+# April 16th, 2019
+# https://presupuestociudadano.jalisco.gob.mx/presupuesto
+
+# Environment Setup ------------------------------------------------------------------
+rm(list=ls()) # Clear Workspace
+options(stringsAsFactors = FALSE)
+wd.dir    = "C:/Users/rente/OneDrive/2019 Trust PolSci"
+wd.clean  = paste0(wd.dir, "/1_data/clean/")
+wd.script = paste0(wd.dir, "/3_scripts/")
+wd.display= paste0(wd.dir, "/2_displays/")
+
+# Packages
+Packages <- c("haven", "tidyverse", "sjlabelled")
+#install.packages(Packages)
+lapply(Packages, library, character.only = TRUE)
+
+
 # Vinculo para acceder a las bases de datos.
-#  https://presupuestociudadano.jalisco.gob.mx/presupuesto
+#  
 
 
 # 1. Limpiar: Por Unidad Presupuestal - Unidad Responsable y Programa Presupuestario (usa el archivo programa-presupuestario-2018.csv)

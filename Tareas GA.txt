@@ -9,3 +9,4 @@ A. Vamos a agregar mas bases de datos del Volumen II del presupuesto. Pero mucha
 
 Para recordar:
 - los nombres de las variables deben estar todas en minusculas y sin espacios.
+- datos perdidos: si hay cero, no es informacion desconocida, es cero pesos asignados. Dejarlo. En cambio, si la celta esta en blanco, asumiremos que es un dato perdido, por lo tanto, hay que dejarlo en blanco y no asignar un cero.

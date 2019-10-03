@@ -1,61 +1,57 @@
-Ingreso,Tipo,Subtipo,Monto,Year,
-Impuestos,Sobre los ingresos,"Impuesto sobre Loterías, Rifas, Sorteos, Juegos con Apuesta y Concursos de Toda Clase","212,800,000.00",2019,
-Impuestos,Sobre los ingresos,Impuesto sobre Enajenación y Distribución de Boletos de Rifas y Sorteos,"30,800,000.00",2019,
-Impuestos,Sobre los ingresos,Impuesto sobre Remuneraciones al Trabajo Personal no Subordinado,"181,700,000.00",2019,
-Impuestos,"Sobre la producción, el consumo y las transacciones",Impuesto sobre Transmisiones Patrimoniales de Bienes Muebles,"21,872,000.00",2019,
-Impuestos,"Sobre la producción, el consumo y las transacciones",Impuesto sobre la Adquisición de Vehículos Automotores Usados,"396,065,600.00",2019,
-Impuestos,"Sobre la producción, el consumo y las transacciones",Impuesto sobre Hospedaje,"390,000,000.00",2019,
-Impuestos,Impuesto sobre Nóminas y Asimilables,Impuesto sobre Nóminas,"3,726,000,000.00",2019,
-Impuestos,Accesorios generados por Adeudos de Impuestos,Accesorios,"33,290,565.00",2019,
-Impuestos,Impuestos no comprendidos en las fracciones de la Ley de Ingresos causadas en ejercicios fiscales anteriores pendientes de liquidación o pago,Impuestos sobre Negocios Jurídicos e Instrumentos Notariales (ejercicios anteriores),"500,000.00",2019,
-Derechos,Derechos por prestación de servicios,Registro Público de la Propiedad y de Comercio,"605,037,235.00",2019,
-Derechos,Derechos por prestación de servicios,Archivo de Instrumentos Públicos y Archivo General del Estado,"58,136,485.00",2019,
-Derechos,Derechos por prestación de servicios,Autorizaciones para el Ejercicio Profesional y Notarial,"2,855,985.00",2019,
-Derechos,Derechos por prestación de servicios,Servicios en los ramos de Movilidad y Transporte,"4,802,002,061.00",2019,
-Derechos,Derechos por prestación de servicios,Aportación Cruz Roja Mexicana y Hogar Cabañas,"88,951,445.00",2019,
-Derechos,Derechos por prestación de servicios,"Certificaciones, Expediciones de Constancias y  Otros Servicios","82,591,575.00",2019,
-Derechos,Otros derechos,Servicios diversos,"14,237,995.00",2019,
-Derechos,Accesorios Generados por Adeudo de Derechos,Accesorios,"88,122,760.00",2019,
-Productos,Productos,"Uso, Goce, Aprovechamiento o Explotación de Bienes de Dominio Privado","141,828,445.00",2019,
-Productos,Productos,Rendimientos e Intereses de Capital de Inversiones del Estado,"18,152,695.00",2019,
-Productos,Productos,Productos diversos,"18,991,830.00",2019,
-Aprovechamientos,Aprovechamientos,Diversos,"276,299,139.00",2019,
-Aprovechamientos,Aprovechamientos,Multas de Movilidad y Transporte,"495,411,510.00",2019,
-Aprovechamientos,Accesorios de aprovechamiento ,-,"28,346,688.00",2019,
-Participaciones y aportaciones,Participaciones,Fondo General de Participaciones,"43,215,617,380.00",2019,
-Participaciones y aportaciones,Participaciones,Fondo de Fomento Municipal,"1,966,759,092.00",2019,
-Participaciones y aportaciones,Participaciones,Impuesto Especial sobre Producción y Servicios (Tabacos y Licores),"1,099,089,030.00",2019,
-Participaciones y aportaciones,Participaciones,Fondo de Fiscalización y Recaudación,"2,068,835,023.00",2019,
-Participaciones y aportaciones,Participaciones,100% de la Recaudación de ISR que se entera a la Federación (ISR MUNICIPAL),"6,728,124,141.00",2019,
-Participaciones y aportaciones,Participaciones,IEPS Gasolinas y Diesel,"1,635,903,558.00",2019,
-Participaciones y aportaciones,Aportaciones Federales,Fondo de Aportaciones para la Nómina Educativa y Gasto Operativo (FONE),"19,412,705,095.00",2019,
-Participaciones y aportaciones,Aportaciones Federales,Fondo de Aportaciones para los Servicios de Salud (FASSA),"4,819,960,579.00",2019,
-Participaciones y aportaciones,Aportaciones Federales,Fondo de Infraestructura Social Estatal (FISE).,"208,745,893.00",2019,
-Participaciones y aportaciones,Aportaciones Federales,Fondo de Infraestructura Social Municipal (FISM).,"1,513,373,677.00",2019,
-Participaciones y aportaciones,Aportaciones Federales,Fondo de Aportaciones para el Fortalecimiento de los Municipios (FORTAMUN).,"5,032,833,237.00",2019,
-Participaciones y aportaciones,Aportaciones Federales,Fondo de Aportaciones Múltiples Infraestructura Educativa Básica.,"417,283,335.00",2019,
-Participaciones y aportaciones,Aportaciones Federales,Fondo de Aportaciones Múltiples Infraestructura Educativa Media Superior.,"44,626,637.00",2019,
-Participaciones y aportaciones,Aportaciones Federales,Fondo de Aportaciones Múltiples Infraestructura Educativa Superior.,"147,759,560.00",2019,
-Participaciones y aportaciones,Aportaciones Federales,Fondo de Aportaciones para la Seguridad Pública de los Estados (FASP).,"317,141,876.00",2019,
-Participaciones y aportaciones,Aportaciones Federales,Fondo de Aportaciones para la Educación Tecnológica (CONALEP).,"271,087,557.00",2019,
-Participaciones y aportaciones,Aportaciones Federales,Fondo de Aportaciones para la Educación de Adultos (INEA).,"108,339,000.00",2019,
-Participaciones y aportaciones,Aportaciones Federales,Fondo de Aportación para el Fortalecimiento de las Entidades Federativas (FAFEF),"2,470,976,255.00",2019,
-Participaciones y aportaciones,Convenios,Seguro Agrícola Catastrófico,"36,742,200.00",2019,
-Participaciones y aportaciones,Convenios,Colegio de Bachilleres del Estado de Jalisco (COBAEJ),"208,516,165.00",2019,
-Participaciones y aportaciones,Convenios,Colegio de Estudios Científicos y Tecnológicos del Estado de Jalisco (CECYTEJ),"193,576,845.00",2019,
-Participaciones y aportaciones,Convenios,Instituto de Formación para el trabajo del Estado de Jalisco (IDEFT),"58,352,800.00",2019,
-Participaciones y aportaciones,Convenios,Programa Seguro Popular,"2,432,636,602.00",2019,
-Participaciones y aportaciones,Convenios,Programas y Proyectos de Protección Contra Riesgos Sanitarios (COFEPRIS),"7,877,210.00",2019,
-Participaciones y aportaciones,Convenios,Fortalecimiento de la Seguridad  Pública (FORTASEG),"289,263,315.00",2019,
-Participaciones y aportaciones,Convenios,Instituciones Estatales de Cultura,"9,070,600.00",2019,
-Participaciones y aportaciones,Incentivos Derivados de la Colaboración Fiscal,Impuesto sobre Tenencia  o Uso de Vehículos de años anteriores,"2,283,000.00",2019,
-Participaciones y aportaciones,Incentivos Derivados de la Colaboración Fiscal,Impuesto Sobre Automóviles Nuevos I.S.A.N.,"963,890,986.00",2019,
-Participaciones y aportaciones,Incentivos Derivados de la Colaboración Fiscal,Fondo de Compensación ISAN,"204,731,104.00",2019,
-Participaciones y aportaciones,Incentivos Derivados de la Colaboración Fiscal,Fondo de Compensación Repecos e Intermedios,"259,323,190.00",2019,
-Participaciones y aportaciones,Incentivos Derivados de la Colaboración Fiscal,Otros Incentivos Económicos,"2,187,366,077.00",2019,
-"Transferencias, Asignaciones, Subsidios y Otras Ayudas",Transferencias Asignaciones,Fondos Metropolitanos,"373,325,205.00",2019,
-"Transferencias, Asignaciones, Subsidios y Otras Ayudas",Transferencias Asignaciones,Universidad de Guadalajara,"5,991,225,350.00",2019,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
+Ingreso,Tipo,Subtipo,Monto,Year
+Impuestos,Sobre los ingresos,"Impuesto sobre Loter?as, Rifas, Sorteos, Juegos con Apuesta y Concursos de Toda Clase","212,800,000.00",2019
+Impuestos,Sobre los ingresos,Impuesto sobre Enajenaci?n y Distribuci?n de Boletos de Rifas y Sorteos,"30,800,000.00",2019
+Impuestos,Sobre los ingresos,Impuesto sobre Remuneraciones al Trabajo Personal no Subordinado,"181,700,000.00",2019
+Impuestos,"Sobre la producci?n, el consumo y las transacciones",Impuesto sobre Transmisiones Patrimoniales de Bienes Muebles,"21,872,000.00",2019
+Impuestos,"Sobre la producci?n, el consumo y las transacciones",Impuesto sobre la Adquisici?n de Veh?culos Automotores Usados,"396,065,600.00",2019
+Impuestos,"Sobre la producci?n, el consumo y las transacciones",Impuesto sobre Hospedaje,"390,000,000.00",2019
+Impuestos,Impuesto sobre N?minas y Asimilables,Impuesto sobre N?minas,"3,726,000,000.00",2019
+Impuestos,Accesorios generados por Adeudos de Impuestos,Accesorios,"33,290,565.00",2019
+Impuestos,Impuestos no comprendidos en las fracciones de la Ley de Ingresos causadas en ejercicios fiscales anteriores pendientes de liquidaci?n o pago,Impuestos sobre Negocios Jur?dicos e Instrumentos Notariales (ejercicios anteriores),"500,000.00",2019
+Derechos,Derechos por prestaci?n de servicios,Registro P?blico de la Propiedad y de Comercio,"605,037,235.00",2019
+Derechos,Derechos por prestaci?n de servicios,Archivo de Instrumentos P?blicos y Archivo General del Estado,"58,136,485.00",2019
+Derechos,Derechos por prestaci?n de servicios,Autorizaciones para el Ejercicio Profesional y Notarial,"2,855,985.00",2019
+Derechos,Derechos por prestaci?n de servicios,Servicios en los ramos de Movilidad y Transporte,"4,802,002,061.00",2019
+Derechos,Derechos por prestaci?n de servicios,Aportaci?n Cruz Roja Mexicana y Hogar Caba?as,"88,951,445.00",2019
+Derechos,Derechos por prestaci?n de servicios,"Certificaciones, Expediciones de Constancias y  Otros Servicios","82,591,575.00",2019
+Derechos,Otros derechos,Servicios diversos,"14,237,995.00",2019
+Derechos,Accesorios Generados por Adeudo de Derechos,Accesorios,"88,122,760.00",2019
+Productos,Productos,"Uso, Goce, Aprovechamiento o Explotaci?n de Bienes de Dominio Privado","141,828,445.00",2019
+Productos,Productos,Rendimientos e Intereses de Capital de Inversiones del Estado,"18,152,695.00",2019
+Productos,Productos,Productos diversos,"18,991,830.00",2019
+Aprovechamientos,Aprovechamientos,Diversos,"276,299,139.00",2019
+Aprovechamientos,Aprovechamientos,Multas de Movilidad y Transporte,"495,411,510.00",2019
+Aprovechamientos,Accesorios de aprovechamiento ,-,"28,346,688.00",2019
+Participaciones y aportaciones,Participaciones,Fondo General de Participaciones,"43,215,617,380.00",2019
+Participaciones y aportaciones,Participaciones,Fondo de Fomento Municipal,"1,966,759,092.00",2019
+Participaciones y aportaciones,Participaciones,Impuesto Especial sobre Producci?n y Servicios (Tabacos y Licores),"1,099,089,030.00",2019
+Participaciones y aportaciones,Participaciones,Fondo de Fiscalizaci?n y Recaudaci?n,"2,068,835,023.00",2019
+Participaciones y aportaciones,Participaciones,100% de la Recaudaci?n de ISR que se entera a la Federaci?n (ISR MUNICIPAL),"6,728,124,141.00",2019
+Participaciones y aportaciones,Participaciones,IEPS Gasolinas y Diesel,"1,635,903,558.00",2019
+Participaciones y aportaciones,Aportaciones Federales,Fondo de Aportaciones para la N?mina Educativa y Gasto Operativo (FONE),"19,412,705,095.00",2019
+Participaciones y aportaciones,Aportaciones Federales,Fondo de Aportaciones para los Servicios de Salud (FASSA),"4,819,960,579.00",2019
+Participaciones y aportaciones,Aportaciones Federales,Fondo de Infraestructura Social Estatal (FISE).,"208,745,893.00",2019
+Participaciones y aportaciones,Aportaciones Federales,Fondo de Infraestructura Social Municipal (FISM).,"1,513,373,677.00",2019
+Participaciones y aportaciones,Aportaciones Federales,Fondo de Aportaciones para el Fortalecimiento de los Municipios (FORTAMUN).,"5,032,833,237.00",2019
+Participaciones y aportaciones,Aportaciones Federales,Fondo de Aportaciones M?ltiples Infraestructura Educativa B?sica.,"417,283,335.00",2019
+Participaciones y aportaciones,Aportaciones Federales,Fondo de Aportaciones M?ltiples Infraestructura Educativa Media Superior.,"44,626,637.00",2019
+Participaciones y aportaciones,Aportaciones Federales,Fondo de Aportaciones M?ltiples Infraestructura Educativa Superior.,"147,759,560.00",2019
+Participaciones y aportaciones,Aportaciones Federales,Fondo de Aportaciones para la Seguridad P?blica de los Estados (FASP).,"317,141,876.00",2019
+Participaciones y aportaciones,Aportaciones Federales,Fondo de Aportaciones para la Educaci?n Tecnol?gica (CONALEP).,"271,087,557.00",2019
+Participaciones y aportaciones,Aportaciones Federales,Fondo de Aportaciones para la Educaci?n de Adultos (INEA).,"108,339,000.00",2019
+Participaciones y aportaciones,Aportaciones Federales,Fondo de Aportaci?n para el Fortalecimiento de las Entidades Federativas (FAFEF),"2,470,976,255.00",2019
+Participaciones y aportaciones,Convenios,Seguro Agr?cola Catastr?fico,"36,742,200.00",2019
+Participaciones y aportaciones,Convenios,Colegio de Bachilleres del Estado de Jalisco (COBAEJ),"208,516,165.00",2019
+Participaciones y aportaciones,Convenios,Colegio de Estudios Cient?ficos y Tecnol?gicos del Estado de Jalisco (CECYTEJ),"193,576,845.00",2019
+Participaciones y aportaciones,Convenios,Instituto de Formaci?n para el trabajo del Estado de Jalisco (IDEFT),"58,352,800.00",2019
+Participaciones y aportaciones,Convenios,Programa Seguro Popular,"2,432,636,602.00",2019
+Participaciones y aportaciones,Convenios,Programas y Proyectos de Protecci?n Contra Riesgos Sanitarios (COFEPRIS),"7,877,210.00",2019
+Participaciones y aportaciones,Convenios,Fortalecimiento de la Seguridad  P?blica (FORTASEG),"289,263,315.00",2019
+Participaciones y aportaciones,Convenios,Instituciones Estatales de Cultura,"9,070,600.00",2019
+Participaciones y aportaciones,Incentivos Derivados de la Colaboraci?n Fiscal,Impuesto sobre Tenencia  o Uso de Veh?culos de a?os anteriores,"2,283,000.00",2019
+Participaciones y aportaciones,Incentivos Derivados de la Colaboraci?n Fiscal,Impuesto Sobre Autom?viles Nuevos I.S.A.N.,"963,890,986.00",2019
+Participaciones y aportaciones,Incentivos Derivados de la Colaboraci?n Fiscal,Fondo de Compensaci?n ISAN,"204,731,104.00",2019
+Participaciones y aportaciones,Incentivos Derivados de la Colaboraci?n Fiscal,Fondo de Compensaci?n Repecos e Intermedios,"259,323,190.00",2019
+Participaciones y aportaciones,Incentivos Derivados de la Colaboraci?n Fiscal,Otros Incentivos Econ?micos,"2,187,366,077.00",2019
+"Transferencias, Asignaciones, Subsidios y Otras Ayudas",Transferencias Asignaciones,Fondos Metropolitanos,"373,325,205.00",2019
+"Transferencias, Asignaciones, Subsidios y Otras Ayudas",Transferencias Asignaciones,Universidad de Guadalajara,"5,991,225,350.00",2019

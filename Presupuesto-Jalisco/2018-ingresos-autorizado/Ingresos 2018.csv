@@ -2,12 +2,21 @@ ingreso,tipo,subtipo,monto,year
 Impuestos,Sobre los Ingresos,"Impuesto sobre Loterías, Rifas, Sorteos, Juegos con Apuesta y Concursos de Toda Clase","160,000,000.00",2018
 Impuestos,Sobre los Ingresos,Impuesto sobre Enajenación y Distribución de Boletos de Rifas y Sorteos,"22,000,000.00",2018
 Impuestos,Sobre los Ingresos,Impuesto sobre Remuneraciones al Trabajo Personal no Subordinado,"158,000,000.00",2018
+Impuestos,Sobre el presupuesto,-,0.00,2018
 Impuestos,"Sobre la producción, el consumo y las transacciones",Impuesto sobre Transmisiones Patrimoniales de Bienes Muebles,"15,623,000.00",2018
 Impuestos,"Sobre la producción, el consumo y las transacciones",Impuesto sobre la Adquisición de Vehículos Automotores Usados,"282,904,000.00",2018
 Impuestos,"Sobre la producción, el consumo y las transacciones",Impuesto sobre Negocios Jurídicos e Instrumentos Notariales (ejercicios anteriores),"2,832,000.00",2018
 Impuestos,"Sobre la producción, el consumo y las transacciones",Impuesto sobre Hospedaje,"300,000,000.00",2018
+Impuestos,Al comercio exterior,-,0.00,2018
 Impuestos,Sobre Nóminas y Asimilables,Impuesto sobre Nóminas,"3,450,000,000.00",2018
+Impuestos,Impuestos ecológicos,-,0.00,2018
 Impuestos,Accesorios generados por Adeudos de Impuestos,Accesorios,"31,857,000.00",2018
+Impuestos,Otros impuestos,-,0.00,2018
+Impuestos,Impuestos no comprendidos en las fracciones de la Ley de Ingresos causadas en ejercicios fiscales anteriores pendientes de liquidación o pago,-,0.00,2018
+Cuotas y aportaciones de seguridad social,-,-,0.00,2018
+Contribuciones de mejoras,-,-,0.00,2018
+Derechos,"Derechos por el uso, goce, aprovechamiento o explotación de bienes de dominio público",-,0.00,2018
+Derechos,Derechos a los Hidrocarburos,-,0.00,2018
 Derechos,Derechos por la Prestación de Servicios,Registro Público de la Propiedad y de Comercio,"578,983,000.00",2018
 Derechos,Derechos por la Prestación de Servicios,Archivo de Instrumentos Públicos y Archivo General del Estado,"55,633,000.00",2018
 Derechos,Derechos por la Prestación de Servicios,Autorizaciones para el Ejercicio Profesional y Notarial,"2,733,000.00",2018
@@ -15,15 +24,22 @@ Derechos,Derechos por la Prestación de Servicios,Servicios en los ramos de Movil
 Derechos,Derechos por la Prestación de Servicios,Aportación Cruz Roja Mexicana y Hogar Cabañas,"85,121,000.00",2018
 Derechos,Derechos por la Prestación de Servicios,"Certificaciones, Expediciones de Constancias y  Otros Servicios","79,035,000.00",2018
 Derechos,Otros Derechos,Servicios diversos,"13,711,000.00",2018
+Derechos,Derechos no comprendidos en las fracciones de la Ley de Ingresos causadas en ejercicios fiscales anteriores pendientes de liquidación o pago,-,0.00,2018
 Derechos,Accesorios Generados por Adeudos de Derechos,Accesorios,"84,328,000.00",2018
 Productos,Productos tipo Corriente,"Uso, Goce, Aprovechamiento o Explotación de Bienes de Dominio Privado","135,721,000.00",2018
 Productos,Productos tipo Corriente,Productos diversos,"18,174,000.00",2018
 Productos,Productos de Capital,Rendimientos e Intereses de Capital e Inversiones del Estado,"17,371,000.00",2018
+Productos,Productos no comprendidos en las fracciones de la Ley de Ingresos causadas en ejercicios fiscales anteriores pendientes de liquidación o pago,-,0.00,2018
 Aprovechamientos,Aprovechamientos de Tipo Corriente,Diversos,"1,793,729,000.00",2018
 Aprovechamientos,Aprovechamientos de Tipo Corriente,100% de la Recaudación de ISR que se entera a la Federación (ISR ESTATAL),"3,657,585,000.00",2018
 Aprovechamientos,Aprovechamientos de Tipo Corriente,IEPS Gasolinas y Diesel,"1,641,385,000.00",2018
 Aprovechamientos,Aprovechamientos de Tipo Corriente,Incentivos derivados de la Colaboración Fiscal,"3,077,392,000.00",2018
 Aprovechamientos,Aprovechamientos de Tipo Corriente,Multas de Movilidad y Transporte,"474,078,000.00",2018
+Aprovechamientos,Aprovechamientos de capital,-,0.00,2018
+Aprovechamientos,Aprovechamientos no comprendidos en las fracciones de la Ley de Ingresos causadas en ejercicios fiscales anteriores pendientes de liquidación o pago,-,0.00,2018
+Total de Ingresos del sector paraestatal por ingresos de venta de bienes y servicios de organismos descentralizados.,Ingresos por ventas de bienes y servicios de organismos descentralizados.,-,0.00,2018
+,Ingresos de operación de entidades paraestatales empresariales.,-,0.00,2018
+,Ingresos por ventas de bienes y servicios producidos en establecimientos del Gobierno Central.,-,0.00,2018
 Participaciones y Aportaciones,Participaciones,Fondo General de Participaciones,"38,952,661,000.00",2018
 Participaciones y Aportaciones,Participaciones,Fondo de Fomento Municipal,"1,680,346,000.00",2018
 Participaciones y Aportaciones,Participaciones,Impuesto Especial sobre Producción y Servicios (Tabacos y Licores),"889,537,000.00",2018
@@ -37,6 +53,16 @@ Participaciones y Aportaciones,Aportaciones,Fondo de Aportaciones Múltiples,"1,1
 Participaciones y Aportaciones,Aportaciones,Fondo de Aportaciones para la Seguridad Pública de los Estados (FASP).,"309,926,000.00",2018
 Participaciones y Aportaciones,Aportaciones,Fondo de Aportaciones para la Educación Tecnológica y de Adultos,"362,977,000.00",2018
 Participaciones y Aportaciones,Aportaciones,Fondo de Aportación para el Fortalecimiento de las Entidades Federativas (FAFEF),"2,412,181,000.00",2018
+,Convenios,-,0.00,2018
 "Transferencias, Asignaciones, Subsidios y Otras Ayudas",Transferencias Internas y Asignaciones al Sector Público,Fondos Metropolitanos,"357,249,000.00",2018
 "Transferencias, Asignaciones, Subsidios y Otras Ayudas",Transferencias Internas y Asignaciones al Sector Público,Universidad de Guadalajara,"5,733,230,000.00",2018
 "Transferencias, Asignaciones, Subsidios y Otras Ayudas",Transferencias Internas y Asignaciones al Sector Público,Apoyos Extraordinarios,"4,847,479,000.00",2018
+"Transferencias, Asignaciones, Subsidios y Otras Ayudas",Transferencias al Resto del Sector Público,-,0.00,2018
+"Transferencias, Asignaciones, Subsidios y Otras Ayudas",Subsidios y Subvenciones,-,0.00,2018
+"Transferencias, Asignaciones, Subsidios y Otras Ayudas",Ayudas sociales,-,0.00,2018
+"Transferencias, Asignaciones, Subsidios y Otras Ayudas",Pensiones y Jubilaciones,-,0.00,2018
+"Transferencias, Asignaciones, Subsidios y Otras Ayudas","Transferencias a Fideicomisos, mandatos y análogos",-,0.00,2018
+Ingresos derivados de Financiamientos,Endeudamiento Interno,Decreto 24862/LX/14.- Implementación del Sistema de Justicia Penal (Cupón Cero),0.00,2018
+Ingresos derivados de Financiamientos,Endeudamiento Interno,"BANOBRAS, S.N.C.- Decreto 24863/LX/14.- para solventar daños ocasionados por la tormenta tropical ""Manuel""",0.00,2018
+Ingresos derivados de Financiamientos,Endeudamiento Interno,"Decreto 25528-LX-15, Crédito hasta por $3,800,000,000.00 para asegurar la ejecución de las obras públicas de gran impacto en el estado para el periodo (2015-2018)",0.00,2018
+Ingresos derivados de Financiamientos,Endeudamiento Externo,-,0.00,2018

@@ -1,0 +1,12 @@
+Tareas:
+
+1. Poner el nombre de las dependencias y dependencias responsables en lugar de los numeros para las variables pp, up.
+2. Hacer una carpeta con el presupuesto PROYECTO de 2019 y hacer el mismo proceso de limpieza.
+3. Investigar cuando se va a entregar el proyecto de presupuesto en el congreso. Para poder planear cuando vamos a tener los datos.
+
+Para la Etapa II:
+A. Vamos a agregar mas bases de datos del Volumen II del presupuesto. Pero mucha informacion se repite. Por ejemplo, las secciones i, ii y iii ya las tenemos. Checha de las seccion iv al ix del Volumen II, que hay y que vale la pena incorporar para un posterior analisis. En la pagina de presupuestociudadano.jalisco.gob.mx hay un "Manual de Programacion y Presupuesto". Se ven muy bien hechos. Ayudate con esos para entender como se hace el presupuesto, que son las claves presupuestarias, etc. Ahi debe venir la informacion suficiente para leer las secciones del iv al ix.
+
+Para recordar:
+- los nombres de las variables deben estar todas en minusculas y sin espacios.
+- datos perdidos: si hay cero, no es informacion desconocida, es cero pesos asignados. Dejarlo. En cambio, si la celta esta en blanco, asumiremos que es un dato perdido, por lo tanto, hay que dejarlo en blanco y no asignar un cero.

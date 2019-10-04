@@ -1,27 +1,53 @@
-Ingreso,Tipo,Subtipo,Monto,Year
+ingreso,tipo,subtipo,monto,year
 Impuestos,Sobre los ingresos,"Impuesto sobre Loter?as, Rifas, Sorteos, Juegos con Apuesta y Concursos de Toda Clase","212,800,000.00",2019
 Impuestos,Sobre los ingresos,Impuesto sobre Enajenaci?n y Distribuci?n de Boletos de Rifas y Sorteos,"30,800,000.00",2019
 Impuestos,Sobre los ingresos,Impuesto sobre Remuneraciones al Trabajo Personal no Subordinado,"181,700,000.00",2019
-Impuestos,"Sobre la producci?n, el consumo y las transacciones",Impuesto sobre Transmisiones Patrimoniales de Bienes Muebles,"21,872,000.00",2019
-Impuestos,"Sobre la producci?n, el consumo y las transacciones",Impuesto sobre la Adquisici?n de Veh?culos Automotores Usados,"396,065,600.00",2019
-Impuestos,"Sobre la producci?n, el consumo y las transacciones",Impuesto sobre Hospedaje,"390,000,000.00",2019
-Impuestos,Impuesto sobre N?minas y Asimilables,Impuesto sobre N?minas,"3,726,000,000.00",2019
+Impuestos,Sobre el patrimonio ,-,0.00,2019
+Impuestos,"Sobre la produccion, el consumo y las transacciones",Impuesto sobre Transmisiones Patrimoniales de Bienes Muebles,"21,872,000.00",2019
+Impuestos,"Sobre la produccion, el consumo y las transacciones",Impuesto sobre la Adquisici?n de Veh?culos Automotores Usados,"396,065,600.00",2019
+Impuestos,"Sobre la produccion, el consumo y las transacciones",Impuesto sobre Hospedaje,"390,000,000.00",2019
+Impuestos,Impuestos sobre comercio exterior ,-,0.00,2019
+Impuestos,Impuesto sobre Nominas y Asimilables,Impuesto sobre N?minas,"3,726,000,000.00",2019
+Impuestos,Impuestos ecologicos,-,0.00,2019
 Impuestos,Accesorios generados por Adeudos de Impuestos,Accesorios,"33,290,565.00",2019
+Impuestos,Otros impuestos,-,0.00,2019
 Impuestos,Impuestos no comprendidos en las fracciones de la Ley de Ingresos causadas en ejercicios fiscales anteriores pendientes de liquidaci?n o pago,Impuestos sobre Negocios Jur?dicos e Instrumentos Notariales (ejercicios anteriores),"500,000.00",2019
-Derechos,Derechos por prestaci?n de servicios,Registro P?blico de la Propiedad y de Comercio,"605,037,235.00",2019
-Derechos,Derechos por prestaci?n de servicios,Archivo de Instrumentos P?blicos y Archivo General del Estado,"58,136,485.00",2019
-Derechos,Derechos por prestaci?n de servicios,Autorizaciones para el Ejercicio Profesional y Notarial,"2,855,985.00",2019
-Derechos,Derechos por prestaci?n de servicios,Servicios en los ramos de Movilidad y Transporte,"4,802,002,061.00",2019
-Derechos,Derechos por prestaci?n de servicios,Aportaci?n Cruz Roja Mexicana y Hogar Caba?as,"88,951,445.00",2019
-Derechos,Derechos por prestaci?n de servicios,"Certificaciones, Expediciones de Constancias y  Otros Servicios","82,591,575.00",2019
+Cuotas y aportaciones de seguridad social,Aportaciones para fondos de vivienda,-,0.00,2019
+Cuotas y aportaciones de seguridad social,Cuotas para seguridad social,-,0.00,2019
+Cuotas y aportaciones de seguridad social,Cuotas de ahorro para el retiro,-,0.00,2019
+Cuotas y aportaciones de seguridad social,Otras cuotas y aportaciones para la seguridad social,-,0.00,2019
+Cuotas y aportaciones de seguridad social,Accesorios para las cuotas y aportaciones de seguridad social,-,0.00,2019
+Contribuciones y mejoras ,Contribuciones de mejoras para Obras publicas,-,0.00,2019
+Contribuciones y mejoras ,"Contribuciones de mejoras no comprendidas en la ley de ingresos vigente, causadas en ejercicios fiscales anteriores, pendientes de liquidacion de pago",-,0.00,2019
+Derechos,"Derechos por el uso, goce, aprovechamiento o explotación de bienes de dominio publico ",Bienes de dominio publico,0.00,2019
+Derechos,Derechos a los hidrocarburos (Derogado),-,0.00,2019
+Derechos,Derechos por prestacion de servicios,Registro P?blico de la Propiedad y de Comercio,"605,037,235.00",2019
+Derechos,Derechos por prestacion de servicios,Archivo de Instrumentos P?blicos y Archivo General del Estado,"58,136,485.00",2019
+Derechos,Derechos por prestacion de servicios,Autorizaciones para el Ejercicio Profesional y Notarial,"2,855,985.00",2019
+Derechos,Derechos por prestacion de servicios,Servicios en los ramos de Movilidad y Transporte,"4,802,002,061.00",2019
+Derechos,Derechos por prestacion de servicios,Aportaci?n Cruz Roja Mexicana y Hogar Caba?as,"88,951,445.00",2019
+Derechos,Derechos por prestacion de servicios,"Certificaciones, Expediciones de Constancias y  Otros Servicios","82,591,575.00",2019
 Derechos,Otros derechos,Servicios diversos,"14,237,995.00",2019
 Derechos,Accesorios Generados por Adeudo de Derechos,Accesorios,"88,122,760.00",2019
+Derechos,Derechos no comprendidos en las fracciones de la ley de ingresos causadas en ejercicios fiscales anteriores a los pendientes de liquidacion y pago,-,0.00,2019
 Productos,Productos,"Uso, Goce, Aprovechamiento o Explotaci?n de Bienes de Dominio Privado","141,828,445.00",2019
 Productos,Productos,Rendimientos e Intereses de Capital de Inversiones del Estado,"18,152,695.00",2019
 Productos,Productos,Productos diversos,"18,991,830.00",2019
+Productos,Productos de capital (Derogado),-,0.00,2019
+Productos,Productos no compredidos en las fracciones de la ley de ingresos causadas en ejercicios fiscales anteriores pendientes de liquidacion y pago,-,0.00,2019
 Aprovechamientos,Aprovechamientos,Diversos,"276,299,139.00",2019
 Aprovechamientos,Aprovechamientos,Multas de Movilidad y Transporte,"495,411,510.00",2019
+Aprovechamientos,Aprovechamientos patrimoniales,-,0.00,2019
 Aprovechamientos,Accesorios de aprovechamiento ,-,"28,346,688.00",2019
+Aprovechamientos,Aprovechamientos no comprendidos en la ley de ingresos vigentes causados en ejercicios fiscales anteriores pendientes de liquidacion y pago,-,0.00,2019
+"Ingresos por venta de bienes, prestacion de servicios y otros",Ingresos por venta de bienes y prestacion de servicios de intituciones publicas y de seguridad social,-,0.00,2019
+,Ingresos por venta de bienes y prestacion de servicios de empresas productivas del estado,-,0.00,2019
+,Ingresos por venta de bienes y prestacion de servicios de entidades paraestatales y fideicomisos no empresariales y no financieros,-,0.00,2019
+,Ingresos por venta de bienes y prestacion de servicios de entidades paraestatales empresariales no financieras con participacion estatal mayoritaria,-,0.00,2019
+,,,,
+,,,,
+,,,,
+,,,,
 Participaciones y aportaciones,Participaciones,Fondo General de Participaciones,"43,215,617,380.00",2019
 Participaciones y aportaciones,Participaciones,Fondo de Fomento Municipal,"1,966,759,092.00",2019
 Participaciones y aportaciones,Participaciones,Impuesto Especial sobre Producci?n y Servicios (Tabacos y Licores),"1,099,089,030.00",2019

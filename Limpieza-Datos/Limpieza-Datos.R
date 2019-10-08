@@ -47,6 +47,3 @@ ingresos <- rbind(ingresos_2018,ingresos_2019)
 
 
 
-# Tareas pendientes
-# 1. poner el nombre de las dependencias y dependencias responsables en lugar de los datos.
-# 2. 

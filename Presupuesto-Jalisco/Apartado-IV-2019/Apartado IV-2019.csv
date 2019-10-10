@@ -1,0 +1,111 @@
+finalidad,funcion,subfuncion,monto,year
+Gobierno,legislacion,legislacion,"699,900,000.00",2019
+Gobierno,legislacion,fiscalizacion,"297,160,129.00",2019
+Gobierno,justicia,imparticion de justicia,"2,237,050,149.94",2019
+Gobierno,justicia,procuracion de justicia,"1,983,417,323.72",2019
+Gobierno,justicia,reclusion y readaptacion social,"1,519,224,832.55",2019
+Gobierno,justicia,derechos humanos,"251,721,316.29",2019
+Gobierno,coordinacion de la politica de gobierno,presidencia gobernatura,"660,811,793.98",2019
+Gobierno,coordinacion de la politica de gobierno,politica interior,"659,774,379.27",2019
+Gobierno,coordinacion de la politica de gobierno,preservacion y cuidado del patrimonio publico,"44,408,037.87",2019
+Gobierno,coordinacion de la politica de gobierno,funcion publica,"164,062,828.66",2019
+Gobierno,coordinacion de la politica de gobierno,asuntos juridicos,"223,802,869.68",2019
+Gobierno,coordinacion de la politica de gobierno,organizacion de procesos electorales,"168,509,791.47",2019
+Gobierno,coordinacion de la politica de gobierno,poblacion ,-,2019
+Gobierno,coordinacion de la politica de gobierno,terrotorios,"2,070,000.00",2019
+Gobierno,coordinacion de la politica de gobierno,otros,"75,846,423.88",2019
+Gobierno,relaciones exteriores,relaciones exteriores,-,2019
+Gobierno,asuntos financieros y de hacienda ,asuntos financieros,"303,813,212.45",2019
+Gobierno,asuntos financieros y de hacienda ,asuntos hacendarios,"1,039,325,801.62",2019
+Gobierno,seguridad nacional,defensa,-,2019
+Gobierno,seguridad nacional,marina,-,2019
+Gobierno,seguridad nacional,inteligencia para la preservacion de la seguridad nacional,-,2019
+Gobierno,asuntos de orden publico y seguridad interior,policia,"3,522,794,978.79",2019
+Gobierno,asuntos de orden publico y seguridad interior,proteccion civil,"235,262,530.28",2019
+Gobierno,asuntos de orden publico y seguridad interior,otros asuntos de orden publico y seguridad,"975,411,263.31",2019
+Gobierno,asuntos de orden publico y seguridad interior,sistema nacional de seguridad publica,-,2019
+Gobierno,otros servicios generales,"servicios registrales, administrativos y patriomoniales","633,941,570.03",2019
+Gobierno,otros servicios generales,servicios estadisticos,"30,675,037.76",2019
+Gobierno,otros servicios generales,servicio de comunicación y medios,-,2019
+Gobierno,otros servicios generales,acceso a la informacion de la politica gubernamental,"372,103,468.56",2019
+Gobierno,otros servicios generales,otros,"1,057,000.00",2019
+Desarrollo social,proteccion ambiental,ordenacion de desechos,-,2019
+Desarrollo social,proteccion ambiental,administracion del agua,"1,610,751,926.13",2019
+Desarrollo social,proteccion ambiental,"ordenacion de aguas residuales, drenaje y alcantarillado",-,2019
+Desarrollo social,proteccion ambiental,reduccion de la contaminacion,"136,002,276.00",2019
+Desarrollo social,proteccion ambiental,proteccion de la diversidad biologica y del paisaje,"189,723,329.65",2019
+Desarrollo social,proteccion ambiental,otros de proteccion ambiental,"304,417,404.55",2019
+Desarrollo social,vivienda y servicios a la comunidad,urbanizacion,"1,000,000.00",2019
+Desarrollo social,vivienda y servicios a la comunidad,desarrollo comunitario,-,2019
+Desarrollo social,vivienda y servicios a la comunidad,abastecimiento de agua,-,2019
+Desarrollo social,vivienda y servicios a la comunidad,alumbrado publico,-,2019
+Desarrollo social,vivienda y servicios a la comunidad,vivienda,-,2019
+Desarrollo social,vivienda y servicios a la comunidad,servicios comunales,-,2019
+Desarrollo social,vivienda y servicios a la comunidad,desarrollo regional,"3,719,898,081.33",2019
+Desarrollo social,vivienda y servicios a la comunidad,prestacion de servicios de salud a la comunidad,"1,400,057,122.30",2019
+Desarrollo social,vivienda y servicios a la comunidad,prestacion de servicios de salud a la persona,"7,207,580,600.63",2019
+Desarrollo social,vivienda y servicios a la comunidad,generacion de recursos para la salud,-,2019
+Desarrollo social,vivienda y servicios a la comunidad,rectoria del sistema de salud,"2,199,023,635.06",2019
+Desarrollo social,vivienda y servicios a la comunidad,proteccion social en salud,"2,945,265,161.00",2019
+Desarrollo social,"recreacion, cultura y otras manifestaciones sociales",deporte y recreacion,"365,911,000.00",2019
+Desarrollo social,"recreacion, cultura y otras manifestaciones sociales",cultura,"614,152,808.71",2019
+Desarrollo social,"recreacion, cultura y otras manifestaciones sociales","radio, television y editoriales","56,828,116.00",2019
+Desarrollo social,"recreacion, cultura y otras manifestaciones sociales",asuntos religiosos y otras manifestaciones sociales,-,2019
+Desarrollo social,educacion,educacion basica,"29,442,190,336.90",2019
+Desarrollo social,educacion,educacion media superior,"1,447,263,748.72",2019
+Desarrollo social,educacion,educacion superior,"12,580,471,109.98",2019
+Desarrollo social,educacion,posgrado,-,2019
+Desarrollo social,educacion,educacion para adultos,"161,436,789.00",2019
+Desarrollo social,educacion,otros servicios educativos y actividades inherentes,"2,664,248,783.19",2019
+Desarrollo social,proteccion social,enfermedad e incapacidad,-,2019
+Desarrollo social,proteccion social,edad avanzada,-,2019
+Desarrollo social,proteccion social,familia e hijos,-,2019
+Desarrollo social,proteccion social,desempleo,-,2019
+Desarrollo social,proteccion social,alimentacion y desarrollo,"781,655,773.73",2019
+Desarrollo social,proteccion social,apoyo social para la vivienda,-,2019
+Desarrollo social,proteccion social,indigenas,"5,683,501.41",2019
+Desarrollo social,proteccion social,otros grupos vulnerables,"1,152,134,434.20",2019
+Desarrollo social,proteccion social,otros de seguridad social y asistencia social,"18,503,358.33",2019
+Desarrollo social,otros asuntos sociales,otros asuntos sociales,"263,158,554.01",2019
+Desarrollo economico,"asuntos economicos, comerciales y laborales en general",asuntos economicos y comerciales en general,"350,692,568.65",2019
+Desarrollo economico,,asuntos laborales en general,"261,682,812.84",2019
+Desarrollo economico,"agropecuaria, silvicultura, pesca y caza",agropecuaria,"1,074,975,729.91",2019
+Desarrollo economico,"agropecuaria, silvicultura, pesca y caza",silvicultura,-,2019
+Desarrollo economico,"agropecuaria, silvicultura, pesca y caza","acuacultura, pesca y caza","652,879,160.52",2019
+Desarrollo economico,"agropecuaria, silvicultura, pesca y caza",agroindustrial,-,2019
+Desarrollo economico,"agropecuaria, silvicultura, pesca y caza",hidroagricola,-,2019
+Desarrollo economico,"agropecuaria, silvicultura, pesca y caza",apoyo financiero a la banca y seguro agropecuario,-,2019
+Desarrollo economico,combustibles y energia,carbon y otros combustibles minerales solidos,-,2019
+Desarrollo economico,combustibles y energia,petroleo y gas natural (hidricarburos),-,2019
+Desarrollo economico,combustibles y energia,combustibles nucleares,-,2019
+Desarrollo economico,combustibles y energia,otros combustibles,-,2019
+Desarrollo economico,combustibles y energia,electricidad,-,2019
+Desarrollo economico,combustibles y energia,energia no electrica,-,2019
+Desarrollo economico,"mineria, manufactura y construccion",extraccion de recursos minerales excepto a los combustibles minerales,-,2019
+Desarrollo economico,"mineria, manufactura y construccion",manufacturas,-,2019
+Desarrollo economico,"mineria, manufactura y construccion",construccion,-,2019
+Desarrollo economico,transporte,transporte por carretera,"1,461,066,141.00",2019
+Desarrollo economico,transporte,transporte por agua y puertos,-,2019
+Desarrollo economico,transporte,transporte por ferricarril,"98,252,779.84",2019
+Desarrollo economico,transporte,transporte aereo,-,2019
+Desarrollo economico,transporte,transporte por oleductos y gasoductos y otros sistemas de transporte,-,2019
+Desarrollo economico,transporte,otros relacionados con transporte,"563,611,764.88",2019
+Desarrollo economico,turismo,turismo,"190,354,156.98",2019
+Desarrollo economico,turismo,hoteles y restaurantes,-,2019
+Desarrollo economico,"ciencia, tecnología e innovacion",investigacion cientifica,-,2019
+Desarrollo economico,"ciencia, tecnología e innovacion",desarrollo tecnologico,"205,433,865.09",2019
+Desarrollo economico,"ciencia, tecnología e innovacion",servicios cientificos y tecnologicos,"35,966,475.00",2019
+Desarrollo economico,"ciencia, tecnología e innovacion",innovacion,"70,239,896.47",2019
+Desarrollo economico,otras industrias y otros asuntos economicos,"comercio, distribucion, almacenamiento y deposito",-,2019
+Desarrollo economico,otras industrias y otros asuntos economicos,otras industrias,-,2019
+Desarrollo economico,otras industrias y otros asuntos economicos,otros asuntos economicos,-,2019
+Otras no clasificadas en funciones anteriores,transacciones de la deuda publica/ costo financiero de la deuda,deuda publica interna,"2,701,606,969.73",2019
+Otras no clasificadas en funciones anteriores,transacciones de la deuda publica/ costo financiero de la deuda,deuda publica externa,-,2019
+Otras no clasificadas en funciones anteriores,"Transferencias, Participaciones y Aportaciones Entre Diferentes Niveles y Ordenes de Gobierno",Transferencias entre Diferentes Niveles y ordenes de Gobierno,-,2019
+Otras no clasificadas en funciones anteriores,"Transferencias, Participaciones y Aportaciones Entre Diferentes Niveles y Ordenes de Gobierno",Participaciones entre Diferentes Niveles y ordenes de Gobierno,"17,074,499,416.15",2019
+Otras no clasificadas en funciones anteriores,"Transferencias, Participaciones y Aportaciones Entre Diferentes Niveles y Ordenes de Gobierno",Aportaciones entre Diferentes Niveles y ordenes de Gobierno,"6,835,470,229.00",2019
+Otras no clasificadas en funciones anteriores,Saneamiento del Sistema Financiero,Saneamiento del Sistema Financiero,-,2019
+Otras no clasificadas en funciones anteriores,Saneamiento del Sistema Financiero,Apoyos IPAB,-,2019
+Otras no clasificadas en funciones anteriores,Saneamiento del Sistema Financiero,Banca de Desarrollo,-,2019
+Otras no clasificadas en funciones anteriores,Saneamiento del Sistema Financiero,Apoyo a los programas de reestructura en unidades de inversion (UDIS),-,2019
+Otras no clasificadas en funciones anteriores,Adeudos de Ejercicios Fiscales Anteriores,Adeudos de Ejercicios Fiscales Anteriores,-,2019

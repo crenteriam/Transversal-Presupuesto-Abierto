@@ -11,6 +11,7 @@ wd.dir    = "C:/Users/GioVanny/Documents/Transversal-Presupuesto-Abierto/"
 wd.datos  = paste0(wd.dir, "/Presupuesto-Jalisco/")
 wd.script = paste0(wd.dir, "/Limpieza-Datos/")
 #wd.display= paste0(wd.dir, "/2_displays/")
+#write.csv(egresos, paste0(wd.datos, "archivo.csv"))
 
 # Packages
 Packages <- c("haven", "tidyverse")

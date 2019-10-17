@@ -1,11 +1,15 @@
 Tareas:
 
-1. Poner el nombre de las dependencias y dependencias responsables en lugar de los numeros para las variables pp, up.
-2. Hacer una carpeta con el presupuesto PROYECTO de 2019 y hacer el mismo proceso de limpieza.
-3. Investigar cuando se va a entregar el proyecto de presupuesto en el congreso. Para poder planear cuando vamos a tener los datos.
+X. 1ro de noviembre. Hacer una carpeta con el presupuesto PROYECTO de 2019 y hacer el mismo proceso de limpieza.
 
-Para la Etapa II:
-A. Vamos a agregar mas bases de datos del Volumen II del presupuesto. Pero mucha informacion se repite. Por ejemplo, las secciones i, ii y iii ya las tenemos. Checha de las seccion iv al ix del Volumen II, que hay y que vale la pena incorporar para un posterior analisis. En la pagina de presupuestociudadano.jalisco.gob.mx hay un "Manual de Programacion y Presupuesto". Se ven muy bien hechos. Ayudate con esos para entender como se hace el presupuesto, que son las claves presupuestarias, etc. Ahi debe venir la informacion suficiente para leer las secciones del iv al ix.
+1. Checa todos los nombres de las variables. Cambialas de nombre de variable a mnemonico. Crea un archivo separado con el mismo titulo del archivo de la base de datos mas la palabra codebook. Ahi pon todos los mnemonicos y los nombres de las variables.
+
+2. en una base de datos un mnemonico dice pp, debe decir transversalidad o transersal_code, si quieres.
+
+3. Empezar a hacer comparativos entre presupuesto de egresos 2019 y 2018.
+--- primero, graficas comparativas de presupuesto asignado entre las dependencias.
+
+
 
 Para recordar:
 - los nombres de las variables deben estar todas en minusculas y sin espacios.

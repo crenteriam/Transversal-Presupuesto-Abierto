@@ -8,6 +8,8 @@ X. 1ro de noviembre. Hacer una carpeta con el presupuesto PROYECTO de 2019 y hac
 
 3. Empezar a hacer comparativos entre presupuesto de egresos 2019 y 2018.
 --- primero, graficas comparativas de presupuesto asignado entre las dependencias.
+---- usar "egresos 2019.csv". Paso 1, hacer collapse por dependencia.
+----
 
 
 

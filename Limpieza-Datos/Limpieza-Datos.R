@@ -30,5 +30,8 @@ ingresos_2019 <-read_csv(paste0(wd.datos,"/2019-ingresos-autorizado/Ingresos 201
 ingresos <- rbind(ingresos_2018,ingresos_2019)
 
 
-
-
+library(tidyverse)
+library(viridis)
+library(hrbrthemes)
+library(fmsb)
+library(colormap)

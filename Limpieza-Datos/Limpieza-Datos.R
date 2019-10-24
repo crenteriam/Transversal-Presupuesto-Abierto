@@ -38,3 +38,13 @@ library(colormap)
 
 
 
+<<<<<<< HEAD
+
+x = left_join(objeto, egresos18, by = "up")
+
+# Grafica 1. Genera una nueva variable en la que al año 2019 le restas el año 2018. Despues genera una grafica de barras
+# donde los valores positivos esten en color azul y los valores negativos en rojo (si se puede)
+
+# Grafica 2. Hacer la grafica Spyder
+=======
+>>>>>>> b7fb6c7e15d2f2bddf4f399ff51cbd9711c6a1ed

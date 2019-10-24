@@ -49,3 +49,8 @@ egresos18 = egresos_2018   %>%
 
 
 x = left_join(objeto, egresos18, by = "up")
+
+# Grafica 1. Genera una nueva variable en la que al año 2019 le restas el año 2018. Despues genera una grafica de barras
+# donde los valores positivos esten en color azul y los valores negativos en rojo (si se puede)
+
+# Grafica 2. Hacer la grafica Spyder

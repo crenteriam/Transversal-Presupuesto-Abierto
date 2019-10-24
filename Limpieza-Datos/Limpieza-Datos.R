@@ -35,3 +35,14 @@ library(viridis)
 library(hrbrthemes)
 library(fmsb)
 library(colormap)
+library(nlme)
+library(dplyr)
+library(data.table)
+
+
+install.packages("nlme")
+install.packages("dplyr")
+install.packages("glue")
+install.packages("data.table")
+
+

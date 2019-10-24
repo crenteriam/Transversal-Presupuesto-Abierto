@@ -35,18 +35,18 @@ library(viridis)
 library(hrbrthemes)
 library(fmsb)
 library(colormap)
+library(nlme)
+library(dplyr)
+library(data.table)
 
 
-objeto = egresos_2019   %>%
-           group_by(up) %>%
-           summarize( importe = sum(importe)) %>% 
-           mutate(year = 2019)
+install.packages("nlme")
+install.packages("dplyr")
+install.packages("glue")
+install.packages("data.table")
 
-egresos18 = egresos_2018   %>%
-  group_by(up) %>%
-  summarize( importe = sum(importe)) %>% 
-  mutate(year = 2018)
 
+<<<<<<< HEAD
 
 x = left_join(objeto, egresos18, by = "up")
 
@@ -54,3 +54,5 @@ x = left_join(objeto, egresos18, by = "up")
 # donde los valores positivos esten en color azul y los valores negativos en rojo (si se puede)
 
 # Grafica 2. Hacer la grafica Spyder
+=======
+>>>>>>> b7fb6c7e15d2f2bddf4f399ff51cbd9711c6a1ed

@@ -35,7 +35,6 @@ library(viridis)
 library(hrbrthemes)
 library(fmsb)
 library(colormap)
-<<<<<<< HEAD
 library(nlme)
 library(dplyr)
 library(data.table)
@@ -47,19 +46,3 @@ install.packages("glue")
 install.packages("data.table")
 
 
-=======
-
-
-objeto = egresos_2019   %>%
-           group_by(up) %>%
-           summarize( importe = sum(importe)) %>% 
-           mutate(year = 2019)
-
-egresos18 = egresos_2018   %>%
-  group_by(up) %>%
-  summarize( importe = sum(importe)) %>% 
-  mutate(year = 2018)
-
-
-x = left_join(objeto, egresos18, by = "up")
->>>>>>> b1fee0fcf65484118d308f64de24c45f3760a9a1

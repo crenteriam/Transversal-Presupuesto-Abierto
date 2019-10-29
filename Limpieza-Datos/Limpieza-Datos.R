@@ -35,12 +35,20 @@ library(viridis)
 library(hrbrthemes)
 library(fmsb)
 library(colormap)
+library(dplyr)
 
-egresos%>%
-  group_by(up) %>%
+#Collapse bases de egreso
+egre19<-egresos_2019%>%
+  group_by(`tipo de gasto`) %>%
   summarize(sum(importe))
 
+egre18<-egresos_2018%>%
+  group_by(`tipo de gasto`)%>%
+  summarize(sum(importe))
 
+dif_egre<-(egre18+egre19)
+
+help("collapse")
 <<<<<<< HEAD
 
 x = left_join(objeto, egresos18, by = "up")

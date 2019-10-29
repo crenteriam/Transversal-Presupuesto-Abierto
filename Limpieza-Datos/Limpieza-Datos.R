@@ -36,9 +36,9 @@ library(hrbrthemes)
 library(fmsb)
 library(colormap)
 
-
-egresos
-
+egresos%>%
+  group_by(up) %>%
+  summarize(sum(importe))
 
 
 <<<<<<< HEAD

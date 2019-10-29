@@ -40,15 +40,19 @@ library(dplyr)
 #Collapse bases de egreso
 egre19<-egresos_2019%>%
   group_by(`tipo de gasto`) %>%
-  summarize(sum(importe))
+  summarize(sum(importe))%>%
+  
 
 egre18<-egresos_2018%>%
   group_by(`tipo de gasto`)%>%
   summarize(sum(importe))
 
-dif_egre<-(egre18+egre19)
+names(egre18)[2]<-("importe18")
+names(egre19)[2]<-("importe19")
 
-help("collapse")
+egre<-cbind(egre18, egre19)
+  egre$diferencia<-(egre$importe19-egre$importe18)
+
 <<<<<<< HEAD
 
 x = left_join(objeto, egresos18, by = "up")

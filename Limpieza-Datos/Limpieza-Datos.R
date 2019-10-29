@@ -36,22 +36,21 @@ library(hrbrthemes)
 library(fmsb)
 library(colormap)
 library(dplyr)
+library(ggplot2)
 
 #Collapse bases de egreso
 egre19<-egresos_2019%>%
-  group_by(`tipo de gasto`) %>%
+  group_by(up) %>%
   summarize(sum(importe))%>%
   
 
 egre18<-egresos_2018%>%
-  group_by(`tipo de gasto`)%>%
+  group_by(up)%>%
   summarize(sum(importe))
 
-names(egre18)[2]<-("importe18")
-names(egre19)[2]<-("importe19")
-
-egre<-cbind(egre18, egre19)
-  egre$diferencia<-(egre$importe19-egre$importe18)
+#Cambiar nombre de columnas
+names(egre18)[2]<-"importe"
+ggplot(egre18, aes(x=up, y=importe))+(geom_bar(stat = "identity", width=0.5))
 
 <<<<<<< HEAD
 

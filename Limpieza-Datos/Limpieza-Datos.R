@@ -37,6 +37,9 @@ library(fmsb)
 library(colormap)
 
 
+egresos
+
+
 
 <<<<<<< HEAD
 

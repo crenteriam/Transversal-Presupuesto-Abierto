@@ -41,7 +41,7 @@ library(ggplot2)
 #Collapse bases de egreso
 egre19<-egresos_2019%>%
   group_by(up) %>%
-  summarize(sum(importe))%>%
+  summarize(sum(importe))
   
 
 egre18<-egresos_2018%>%
@@ -49,7 +49,7 @@ egre18<-egresos_2018%>%
   summarize(sum(importe))
 
 #Cambiar nombre de columnas
-names(egre18)[2]<-"importe"
+names(egre19)[2]<-"importe"
 ggplot(egre18, aes(x=up, y=importe))+(geom_bar(stat = "identity", width=0.5))
 
 <<<<<<< HEAD

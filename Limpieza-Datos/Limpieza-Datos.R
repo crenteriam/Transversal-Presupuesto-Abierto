@@ -52,6 +52,9 @@ egre18<-egresos_2018%>%
 names(egre19)[2]<-"importe"
 ggplot(egre18, aes(x=up, y=importe))+(geom_bar(stat = "identity", width=0.5))
 
+write.csv(egre18, paste0(wd.datos, "egre18.csv"))
+
+
 <<<<<<< HEAD
 
 x = left_join(objeto, egresos18, by = "up")

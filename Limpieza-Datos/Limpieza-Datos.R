@@ -53,7 +53,7 @@ egre$mmdp<-egre$`sum(importe)`/1000000000
 
 #Cambiar nombre de columnas
 names(egre19)[2]<-"importe"
-ggplot(data = egre)+(geom_col(mapping = aes(x=`tipo de gasto`, y=`mmdp`)))
+ggplot(data = egre)+(geom_col(mapping = aes(x=`tipo de gasto`, y=`mmdp`)))+(scale_fill_brewer(palette = "blues"))
 
 help("ggplot")
      write.csv(egre18, paste0(wd.datos, "egre18.csv"))

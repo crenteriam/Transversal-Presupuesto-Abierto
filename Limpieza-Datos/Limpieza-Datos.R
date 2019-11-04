@@ -40,12 +40,12 @@ library(ggplot2)
 
 #Collapse bases de egreso
 egre19<-egresos_2019%>%
-  group_by(`tipo de gasto`, year) %>%
+  group_by(up)%>%
   summarize(sum(importe))
   
 
 egre18<-egresos_2018%>%
-  group_by(`tipo de gasto`, year)%>%
+  group_by(up)%>%
   summarize(sum(importe))
 
 egre<-rbind(egre18, egre19)
@@ -53,11 +53,10 @@ egre$mmdp<-egre$`sum(importe)`/1000000000
 
 #Cambiar nombre de columnas
 names(egre19)[2]<-"importe"
-ggplot(data = egre)+(geom_col(mapping = aes(x=`tipo de gasto`, y=`mmdp`)))+(scale_fill_brewer(palette = "blues"))
+ggplot(data = egre)+(geom_col(mapping = aes(x=`tipo de gasto`, y=`mmdp`)))+(scale_fill_brewer(palette = ""))
 
-help("ggplot")
-     write.csv(egre18, paste0(wd.datos, "egre18.csv"))
-
+write.csv(egre18, paste0(wd.datos, "egre18.csv"))
+write.csv(egre19, paste0(wd.datos, "egre19.csv"))
 
 <<<<<<< HEAD
 

@@ -60,3 +60,5 @@ write.csv(egre19, paste0(wd.datos, "egre19.csv"))
 
 
 
+
+

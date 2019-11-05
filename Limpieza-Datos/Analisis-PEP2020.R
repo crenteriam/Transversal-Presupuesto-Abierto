@@ -15,14 +15,30 @@ wd.display = paste0(wd.dir, "/Graficas/")
 #write.csv(egresos, paste0(wd.datos, "archivo.csv"))
 
 # Packages
-Packages <- c("haven", "tidyverse", "scales")
+Packages <- c("haven", "tidyverse")
 #install.packages(Packages)
 lapply(Packages, library, character.only = TRUE)
 
 # CARGAR DATOS  ----------------------------------------------------------------------
 
 dt.unidadespresupuestarias =  read_csv(paste0(wd.datos, "unidades presupuestales 18-19-20_v3.csv"))
+dt.plazas2019 = read_csv(paste0(wd.datos, "analisis-plazas-2019.csv"))
+dt.plazas2020 = read_csv(paste0(wd.datos, "analisis-plazas-2020.csv"))
+
+# LIMPIEZA DE DATOS  -----------------------------------------------------------------
+
+# Unidades Presupuestarias
 dt.unidadespresupuestarias$Year = as.character(dt.unidadespresupuestarias$year)
+
+# Plazas
+dt.plazas2019$remuneracion_prom = (dt.plazas2019$remuneracion_min + dt.plazas2019$remuneracion_max) / 2
+dt.plazas2019$gasto_total       = dt.plazas2019$cantidad_plazas * dt.plazas2019$remuneracion_prom
+dt.plazas2020$remuneracion_prom = (dt.plazas2020$remuneracion_min + dt.plazas2020$remuneracion_max) / 2
+dt.plazas2020$gasto_total       = dt.plazas2020$cantidad_plazas * dt.plazas2020$remuneracion_prom
+
+### Subset plazas
+dt.plazas2019sub   = subset(dt.plazas2019, select = c("plaza", "cantidad_plazas", "remuneracion_prom", "gasto_total"))
+dt.plazas2020sub   = subset(dt.plazas2020, select = c("plaza", "cantidad_plazas", "remuneracion_prom", "gasto_total"))
 
 # GRAFICAS   -------------------------------------------------------------------------
 

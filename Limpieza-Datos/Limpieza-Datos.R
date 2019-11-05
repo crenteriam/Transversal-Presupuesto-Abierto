@@ -53,18 +53,10 @@ egre$mmdp<-egre$`sum(importe)`/1000000000
 
 #Cambiar nombre de columnas
 names(egre19)[2]<-"importe"
-ggplot(data = egre)+geom_col(mapping = aes(x=`tipo de gasto`, y=`mmdp`))+scale_fill_brewer(palette = ""))
+ggplot(data = unidades_presupuestales_18_19_20)+geom_col(mapping = aes(x=`up(2019)`, y=`resta19-18`))+scale_fill_brewer(palette = "Blues")
 
 write.csv(egre18, paste0(wd.datos, "egre18.csv"))
 write.csv(egre19, paste0(wd.datos, "egre19.csv"))
 
-<<<<<<< HEAD
 
-x = left_join(objeto, egresos18, by = "up")
 
-# Grafica 1. Genera una nueva variable en la que al año 2019 le restas el año 2018. Despues genera una grafica de barras
-# donde los valores positivos esten en color azul y los valores negativos en rojo (si se puede)
-
-# Grafica 2. Hacer la grafica Spyder
-=======
->>>>>>> b7fb6c7e15d2f2bddf4f399ff51cbd9711c6a1ed

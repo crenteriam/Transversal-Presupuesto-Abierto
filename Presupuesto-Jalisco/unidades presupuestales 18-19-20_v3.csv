@@ -1,11 +1,11 @@
-up,importe,year,tipo-up
+up,importe,year,tipo_up
 "Aportaciones, Transferencias y Subsidios a Municipios","6,714","2,018",Grandes
 Comision Estatal de Derechos Humanos de Jalisco,151,"2,018",Org. Autonomo
 CESJAL,15,"2,018",Org. Autonomo
 Contraloria del Estado,110,"2,018",Org. Autonomo
 Despacho del Gobernador,7,"2,018",Org. Autonomo
-Deuda Pulica,"2,719","2,018",
-Fiscalia Estatal,"6,607","2,018",Fiscalia
+Deuda Pulica,"2,719","2,018",Deuda
+Fiscalia Estatal,"6,607","2,018",Seguridad
 ITEI,56,"2,018",Org. Autonomo
 IEPC,936,"2,018",Org. Autonomo
 Participaciones,"15,543","2,018",Grandes
@@ -36,7 +36,7 @@ Secretaria de Gestion Integral del Agua,0,"2,018",Secretaria
 Secretaria de la Hacienda Publica,0,"2,018",Secretaria
 Secretaria del Sistema de Asistencia Social,0,"2,018",Secretaria
 Secretaria de Planeacion y Participacion Ciudadana,0,"2,018",Secretaria
-Secretaria de Seguridad,0,"2,018",Secretaria
+Secretaria de Seguridad,0,"2,018",Seguridad
 Secretaria Ejecutiva del Sistema Estatal Anti-Corrupcion,0,"2,018",Secretaria
 Coordinacion General Estrategica de Crecimiento y Desarrollo Economico,0,"2,018",Coordinacion
 Coordinacion General Estrategica de Desarrollo Social,0,"2,018",Coordinacion
@@ -44,15 +44,15 @@ Coordinacion General Estrategica de Gestion del Territorio,0,"2,018",Coordinacio
 Coordinacioin General Estrategica de Seguridad,0,"2,018",Coordinacion
 Jefatura de Gabinete,0,"2,018",Org. Autonomo
 Consejeria Juridica del Poder Ejecutivo del Estado,0,"2,018",Org. Autonomo
-Fiscalia Especializada en Combate a la Corrupcion,0,"2,018",Fiscalia
-Fiscalia Especializada en Materia de Delitos Electorales,0,"2,018",Fiscalia
+Fiscalia Especializada en Combate a la Corrupcion,0,"2,018",Seguridad
+Fiscalia Especializada en Materia de Delitos Electorales,0,"2,018",Seguridad
 "Aportaciones, Transferencias y Subsidios a Municipios","6,835","2,019",Grandes
 Comision Estatal de Derechos Humanos de Jalisco,149,"2,019",Org. Autonomo
 CESJAL,0,"2,019",Org. Autonomo
 Contraloria del Estado,114,"2,019",Org. Autonomo
 Despacho del Gobernador,7,"2,019",Org. Autonomo
-Deuda Pulica,"2,702","2,019",
-Fiscalia Estatal,"2,249","2,019",Fiscalia
+Deuda Pulica,"2,702","2,019",Deuda
+Fiscalia Estatal,"2,249","2,019",Seguridad
 ITEI,56,"2,019",Org. Autonomo
 IEPC,171,"2,019",Org. Autonomo
 Participaciones,"17,074","2,019",Grandes
@@ -83,7 +83,7 @@ Secretaria de Gestion Integral del Agua,"1,611","2,019",Secretaria
 Secretaria de la Hacienda Publica,"1,444","2,019",Secretaria
 Secretaria del Sistema de Asistencia Social,"2,667","2,019",Secretaria
 Secretaria de Planeacion y Participacion Ciudadana,607,"2,019",Secretaria
-Secretaria de Seguridad,"4,613","2,019",Secretaria
+Secretaria de Seguridad,"4,613","2,019",Seguridad
 Secretaria Ejecutiva del Sistema Estatal Anti-Corrupcion,50,"2,019",Secretaria
 Coordinacion General Estrategica de Crecimiento y Desarrollo Economico,12,"2,019",Coordinacion
 Coordinacion General Estrategica de Desarrollo Social,362,"2,019",Coordinacion
@@ -91,18 +91,18 @@ Coordinacion General Estrategica de Gestion del Territorio,19,"2,019",Coordinaci
 Coordinacioin General Estrategica de Seguridad,260,"2,019",Coordinacion
 Jefatura de Gabinete,158,"2,019",Org. Autonomo
 Consejeria Juridica del Poder Ejecutivo del Estado,25,"2,019",Org. Autonomo
-Fiscalia Especializada en Combate a la Corrupcion,0,"2,019",Fiscalia
-Fiscalia Especializada en Materia de Delitos Electorales,0,"2,019",Fiscalia
+Fiscalia Especializada en Combate a la Corrupcion,0,"2,019",Seguridad
+Fiscalia Especializada en Materia de Delitos Electorales,0,"2,019",Seguridad
 "Aportaciones, Transferencias y Subsidios a Municipios","7,571","2,020",Grandes
 Comision Estatal de Derechos Humanos de Jalisco,149,"2,020",Org. Autonomo
 CESJAL,0,"2,020",Org. Autonomo
 Contraloria del Estado,111,"2,020",Org. Autonomo
 Despacho del Gobernador,7,"2,020",Org. Autonomo
-Deuda Pulica,"2,603","2,020",
-Fiscalia Estatal,"2,736","2,020",Fiscalia
+Deuda Pulica,"2,603","2,020",Deuda
+Fiscalia Estatal,"2,736","2,020",Seguridad
 ITEI,58,"2,020",Org. Autonomo
 IEPC,171,"2,020",Org. Autonomo
-Participaciones,"18,003","2,020",Org. Autonomo
+Participaciones,"18,003","2,020",Grandes
 Poder Judicial,"1,739","2,020",Org. Autonomo
 Poder Legislativo del Estado de Jalisco,997,"2,020",Org. Autonomo
 Procuraduria Social,155,"2,020",Org. Autonomo
@@ -130,7 +130,7 @@ Secretaria de Gestion Integral del Agua,482,"2,020",Secretaria
 Secretaria de la Hacienda Publica,"1,947","2,020",Secretaria
 Secretaria del Sistema de Asistencia Social,"3,314","2,020",Secretaria
 Secretaria de Planeacion y Participacion Ciudadana,94,"2,020",Secretaria
-Secretaria de Seguridad,"5,154","2,020",Secretaria
+Secretaria de Seguridad,"5,154","2,020",Seguridad
 Secretaria Ejecutiva del Sistema Estatal Anti-Corrupcion,41,"2,020",Secretaria
 Coordinacion General Estrategica de Crecimiento y Desarrollo Economico,18,"2,020",Coordinacion
 Coordinacion General Estrategica de Desarrollo Social,372,"2,020",Coordinacion
@@ -138,5 +138,5 @@ Coordinacion General Estrategica de Gestion del Territorio,14,"2,020",Coordinaci
 Coordinacioin General Estrategica de Seguridad,724,"2,020",Coordinacion
 Jefatura de Gabinete,108,"2,020",Org. Autonomo
 Consejeria Juridica del Poder Ejecutivo del Estado,29,"2,020",Org. Autonomo
-Fiscalia Especializada en Combate a la Corrupcion,66,"2,020",Fiscalia
-Fiscalia Especializada en Materia de Delitos Electorales,5,"2,020",Fiscalia
+Fiscalia Especializada en Combate a la Corrupcion,66,"2,020",Seguridad
+Fiscalia Especializada en Materia de Delitos Electorales,5,"2,020",Seguridad
